@@ -11,15 +11,6 @@
 - 🤝 I’m looking to collaborate on `JavaScript` projects;
 - ⚡ Fun fact: I have a degree in business administration and finance specialization. 
 
-### 🚀 Languages and tools:
-
-- 💻 <b>Front-End:</b> `JavaScript`, `React`, `React Native`, `HTML`, `CSS`. <br>
-- 📦 <b>Deploy:</b> `Git`, `Github`. <br>
-- 🗃 <b>Database</b> `MySQL`. <br>
-- 📚 <b>CMS:</b> `Wordpress`, `Elementor`.<br>
-- 📝 <b>Editors and Operating Systems:</b> `VSCode`, `Windows`, `Ubuntu`, `Android`.
-- 🎨 <b>Design:</b> `Adobe XD`, `Adobe Photoshop`, `Adobe Illustrator` and `Figma`. <br>
-
 ### 📫 Where to find me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-oliveira-de-carvalho/)
