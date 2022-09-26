@@ -1,5 +1,5 @@
 # Hi there 👋 I'm [André Carvalho](https://github.com/andcreative), a developer from Brazil. 🧑‍💻 <br>
-### Developer  |   HTML   |   CSS   |   JavaScript   |   Git   | 
+### Front-End Developer  |   HTML   |   CSS   |   JavaScript   |   React  |   REact Native   |   Git   | 
 
 > I'm a developer who is passionate about tech and building cool projects, looking to solve real-world problems.🌏
 
