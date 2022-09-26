@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently building some `JavaScript` projects and `websites`;
 - 🌱 I’m currently learning `JavaScript`, `React`, `React Native`;
-- 🔜 I will learn next `Swift`, `Angular`, `AWS`;
 - 🔤 I have basic knowledge in `Phyton`, `MySQL`, `Java`, `Typescript`, `GraphQL`, `Ruby`;
 - 💬 Ask me about: `Technologies`, `Front-end`, `UI|UX`, `Games`;
 - 🤝 I’m looking to collaborate on `JavaScript` projects;
